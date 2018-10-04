@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_scout_prettyboy"
+	"$baseTexture" "HUD/leaderboard_class_scout_stun_markdeath"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

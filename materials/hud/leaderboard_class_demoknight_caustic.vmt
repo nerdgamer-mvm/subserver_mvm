@@ -1,7 +1,7 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_demoknight_charge"
-	"$vertexcolor" 1
+	"$basetexture" "hud/leaderboard_class_demoknight_caustic"
+	"$vertexcolo" 1
 	"$no_fullbright" 1
 	"$ignorez" 1
 	"%keywords" "tf"

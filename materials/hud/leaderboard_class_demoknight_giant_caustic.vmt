@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_demoman_boss_erasor"
+	"$basetexture" "hud/leaderboard_class_demoknight_caustic"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1
@@ -12,7 +12,8 @@
       {
          "animatedtexturevar" "$basetexture"
          "animatedtextureframenumvar" "$frame"
-         "animatedtextureframerate" "1"
+         "animatedtextureframerate" "2"
       }
    }
 }
+

@@ -1,0 +1,39 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "hud\leaderboard_class_medic_hyper"
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+	"$translucent" 1
+	"$color" "[0 0 0]"
+	"$blendTintColorOverBase" "1"
+	"Proxies"
+	{
+		"Sine"
+		{
+			"sineperiod" "0.6"
+			"sinemin" "0"
+			"sinemax" "2"
+			"timeoffset" "0"
+			"resultVar" "$color[0]"
+		}
+		"Sine"
+		{
+			"sineperiod" "0.6"
+			"sinemin" "0"
+			"sinemax" "2"
+			"timeoffset" "0.2"
+			"resultVar" "$color[1]"
+		}
+		"Sine"
+		{
+			"sineperiod" "0.6"
+			"sinemin" "0"
+			"sinemax" "2"
+			"timeoffset" "0.4"
+			"resultVar" "$color[2]"
+		}
+	}
+}
+

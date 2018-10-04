@@ -1,6 +1,6 @@
-"UnlitGeneric"
+"unlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_boss_soldierexcavation"
+	"$basetexture" "hud/leaderboard_class_capture_speed_3"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1
